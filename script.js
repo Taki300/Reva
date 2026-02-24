@@ -344,7 +344,7 @@ function startPhotoShow() {
             image: './images/1316739.jpg'
         },
         {
-            text: 'Dipotoin dekel ku',
+            text: 'Dipotoin teman ku',
             image: './images/1316743.jpg'
         },
         {
