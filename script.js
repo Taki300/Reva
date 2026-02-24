@@ -231,9 +231,7 @@ YEAY YANG ULANG TAHUN HARI INI
 Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.
 Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bersama lagi. Selagi kamu bahagia aku ikut seneng kok (aku kangen kamu), jangan pernah berpikir diri kamu sendirian karna selalu ada yang peduli dengan kamu, kek aku contohnya (anjay).
 
-
 Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.
-
 
 kalimat "aku mencintamu" bukan hanya untuk saat kita bersama tapi untuk selamanya karna kamu yang membuat aku jatuh cinta lagi dan kamu akan jadi cinta terakhir aku`;
     
