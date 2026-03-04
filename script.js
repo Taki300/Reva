@@ -228,8 +228,9 @@ function startTypewriter() {
 Happy Birthday!
 
 YEAY YANG ULANG TAHUN HARI INI
-Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.
-Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bersama lagi. Selagi kamu bahagia aku ikut seneng kok (aku kangen kamu), jangan pernah berpikir diri kamu sendirian karna selalu ada yang peduli dengan kamu, kek aku contohnya (anjay).
+Aku masih inget tanggal ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.
+Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. Selagi kamu bahagia aku gapapa (maaf masih sering kangen kamu). Aku minta maaf untuk masalah ini, cuman ini satu-satunya cara aku buat lupain kamu.
+Pertanyaan "kenapa kita gak temenan aja" aku gak bisa ngeliat kamu sama yang lain, alasan yang cukup kekanakan tapi emang itu alasannya, aku gak mau sakit lebih dalam lagi. Tapi aku selalu berharap kita bisa bersama lagi walaupun itu memiliki kemungkinan yang sangat kecil.
 
 Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.
 
@@ -268,7 +269,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Repa cantik, imut, menggemaskan<br><br>Happy Birthday!<br><br>YEAY YANG ULANG TAHUN HARI INI<br><br>Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.<br><br> Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bersama lagi. selagi kamu bahagia aku ikut seneng kok (aku kangen kamu), jangan pernah berpikir diri kamu sendirian karna selalu ada yang peduli dengan kamu, kek aku contohnya (anjay).<br><br>Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.<br><br>kalimat "aku mencintamu" bukan hanya untuk saat kita bersama tapi untuk selamanya karna kamu yang membuat aku jatuh cinta lagi dan kamu akan jadi cinta terakhir aku.`;
+            const fullMessage = `Hi Repa cantik, imut, menggemaskan<br><br>Happy Birthday!<br><br>YEAY YANG ULANG TAHUN HARI INI<br><br>Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.<br><br> Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. selagi kamu bahagia aku gapapa (maaf masih sering kangen kamu). Aku minta maaf untuk masalah ini, cuman ini satu-satunya cara aku buat lupain kamu.<br><br>Pertanyaan "kenapa kita gak temenan aja" aku gak bisa ngeliat kamu sama yang lain, alasan yang cukup kekanakan tapi emang itu alasannya, aku gak mau sakit lebih dalam lagi. Tapi aku selalu berharap kita bisa bersama lagi walaupun itu memiliki kemungkinan yang sangat kecil.<br><br>Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.<br><br>kalimat "aku mencintamu" bukan hanya untuk saat kita bersama tapi untuk selamanya karna kamu yang membuat aku jatuh cinta lagi dan kamu akan jadi cinta terakhir aku.`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
