@@ -233,7 +233,7 @@ Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perja
 
 Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.
 
-kalimat "aku mencintamu" bukan hanya untuk saat kita bersama tapi untuk selamanya karna kamu yang membuat aku jatuh cinta lagi dan kamu akan jadi cinta terakhir aku`;
+Terimakasih sudah pernah hadir walaupun dengan waktu yang singkat tapi aku sangat senang bisa kenal sama kamu, semoga perasaan ini bisa pudar walaupun aku tidak menginginkannya.`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -268,7 +268,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Repa cantik, imut, menggemaskan<br><br>Happy Birthday!<br><br>YEAY YANG ULANG TAHUN HARI INI<br><br>Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.<br><br> Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. selagi kamu bahagia aku gapapa (maaf masih sering kangen kamu).<br><br>Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.<br><br>kalimat "aku mencintamu" bukan hanya untuk saat kita bersama tapi untuk selamanya karna kamu yang membuat aku jatuh cinta lagi dan kamu akan jadi cinta terakhir aku.`;
+            const fullMessage = `Hi Repa cantik, imut, menggemaskan<br><br>Happy Birthday!<br><br>YEAY YANG ULANG TAHUN HARI INI<br><br>Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.<br><br> Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. selagi kamu bahagia aku gapapa (maaf masih sering kangen kamu).<br><br>Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.<br><br>Terimakasih sudah pernah hadir walaupun dengan waktu yang singkat tapi aku sangat senang bisa kenal sama kamu, semoga perasaan ini bisa pudar walaupun aku tidak menginginkannya.`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
