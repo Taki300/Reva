@@ -229,11 +229,11 @@ Happy Birthday!
 
 YEAY YANG ULANG TAHUN HARI INI
 Aku masih inget tanggal ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.
-Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. Selagi kamu bahagia aku gapapa (maaf masih sering kangen kamu).
+Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. Selagi kamu bahagia aku senang mendengarnya (maaf aku masih sering kangen sama kamu bahkan sampai saat ini).
 
 Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.
 
-Terimakasih sudah pernah hadir walaupun dengan waktu yang singkat tapi aku sangat senang bisa kenal sama kamu, semoga perasaan ini bisa pudar walaupun aku tidak menginginkannya.`;
+Terimakasih sudah pernah hadir walaupun dengan waktu yang singkat tapi aku sangat senang bisa kenal sama kamu. Semua tentangmu, jika itu kamu, aku menyukainya. Semoga perasaan ini bisa pudar walaupun aku tidak menginginkannya.`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -268,7 +268,7 @@ function skipTypewriter() {
         clearInterval(typewriterInterval);
         const messageContent = document.querySelector('.message-content');
         if (messageContent) {
-            const fullMessage = `Hi Repa cantik, imut, menggemaskan<br><br>Happy Birthday!<br><br>YEAY YANG ULANG TAHUN HARI INI<br><br>Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.<br><br> Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. selagi kamu bahagia aku gapapa (maaf masih sering kangen kamu).<br><br>Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.<br><br>Terimakasih sudah pernah hadir walaupun dengan waktu yang singkat tapi aku sangat senang bisa kenal sama kamu, semoga perasaan ini bisa pudar walaupun aku tidak menginginkannya.`;
+            const fullMessage = `Hi Repa cantik, imut, menggemaskan<br><br>Happy Birthday!<br><br>YEAY YANG ULANG TAHUN HARI INI<br><br>Aku masih inget kok ulang tahun kamu. Semoga Kamu sehat dan bahagia selalu yaaaa.<br><br> Aku harap dihari kamu dilahrikan ini dan untuk hari-hari setelahnya setiap perjalanan kamu selalu diiringi dengan kebahagiaan walaupun kita udh gak bareng lagi. selagi kamu bahagia aku gapapa (maaf aku masih sering kangen sama kamu bahkan sampai saat ini).<br><br>Sekali lagi selamat ulang tahun REPAAAAAAAA, doa terbaik buat kamu.<br><br>Terimakasih sudah pernah hadir walaupun dengan waktu yang singkat tapi aku sangat senang bisa kenal sama kamu. Semua tentangmu, jika itu kamu, aku menyukainya. Semoga perasaan ini bisa pudar walaupun aku tidak menginginkannya.`;
             messageContent.innerHTML = fullMessage;
             isTyping = false;
             messageContent.scrollTop = messageContent.scrollHeight;
@@ -336,11 +336,11 @@ function startPhotoShow() {
             image: './images/1286298.jpg'
         },
         {
-            text: 'Kamu cantik banget cos jadi Miku',
+            text: 'Nyoba kamera ipad yang baru kamu beli',
             image: './images/1286605.jpg'
         },
         {
-            text: 'konten pertama(walaupun aku kikuk)',
+            text: 'Trend pertama(maaf aku kikuk)',
             image: './images/1316739.jpg'
         },
         {
