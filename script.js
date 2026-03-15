@@ -618,13 +618,13 @@ function loadSpotifyPlaylist(playlistNumber) {
         },
         2: {
             // Ganti dengan playlist kedua kamu
-            embedUrl: 'https://open.spotify.com/playlist/18XUdrmxy8GaxcxviMryde?si=OLdiTpZ_Q2qjulgYrnHM9A',
+            embedUrl: 'https://open.spotify.com/embed/playlist/18XUdrmxy8GaxcxviMryde?si=OLdiTpZ_Q2qjulgYrnHM9A',
             name: 'Love Songs Collection',
             description: 'Koleksi lagu cynta aku'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
-            embedUrl: 'https://open.spotify.com/playlist/1pCKbpZZ98nhkqAZHeJjz7?si=UzmK9CesScO-Ixnl0jGv7w',
+            embedUrl: 'https://open.spotify.com/embed/playlist/1pCKbpZZ98nhkqAZHeJjz7?si=UzmK9CesScO-Ixnl0jGv7w',
             name: 'Happy Memories',
             description: 'Lagu-lagu yang mengingatkan bahwa aku tidak bisa melupakanmu'
         }
