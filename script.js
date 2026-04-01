@@ -620,7 +620,7 @@ function loadSpotifyPlaylist(playlistNumber) {
             // Ganti dengan playlist kedua kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/18XUdrmxy8GaxcxviMryde?si=OLdiTpZ_Q2qjulgYrnHM9A',
             name: 'Love Songs Collection',
-            description: 'Koleksi lagu cynta aku'
+            description: 'Koleksi lagu tentangmu'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
